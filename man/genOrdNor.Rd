@@ -35,6 +35,9 @@ Number of normal variables.
 }
 }
 
+\references{
+Demirtas, H., Hedeker, D. (2015). Concurrent generation of ordinal and normal data with given correlation matrix and marginal distributions. \emph{Journal of Statistical Software, Code Snippets}; \bold{68(2):1-14}.
+}
 
 \value{
 A matrix of size \eqn{n \times (no.ord + no.norm)}, of which first \code{no.ord} are ordinal variables.

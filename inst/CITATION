@@ -1,0 +1,22 @@
+bibentry(bibtype = "Article",
+  title        = "{OrdNor}: An {R} Package for Concurrent Generation of Correlated Ordinal and Normal Data",
+  author       = c(person(given = "Anup",
+                          family = "Amatya",
+                          email = "aamatya@nmsu.edu"),
+                   person(given = "Hakan",
+                          family = "Demirtas")),
+  journal      = "Journal of Statistical Software, Code Snippets",
+  year         = "2015",
+  volume       = "68",
+  number       = "2",
+  pages        = "1--14",
+  doi          = "10.18637/jss.v068.c02",
+
+  header       = "To cite OrdNor in publications use:",
+  textVersion  =
+  paste("Anup Amatya, Hakan Demirtas (2015).",
+        "OrdNor: An R Package for Concurrent Generation of Correlated Ordinal and Normal Data.",
+        "Journal of Statistical Software, 68(2), 1-14.",
+        "doi:10.18637/jss.v068.c02")
+)
+
