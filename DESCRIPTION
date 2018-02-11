@@ -2,8 +2,8 @@ Package: OrdNor
 Type: Package
 Title: Concurrent Generation of Ordinal and Normal Data with Given
         Correlation Matrix and Marginal Distributions
-Version: 2.0
-Date: 2015-11-13
+Version: 2.1
+Date: 2018-02-02
 Author: Anup Amatya and Hakan Demirtas
 Maintainer: Anup Amatya<aamatya@nmsu.edu>
 Depends: mvtnorm, corpcor, Matrix, GenOrd
@@ -11,6 +11,6 @@ Imports: stats
 Description: Implementation of a procedure for generating samples from a mixed distribution of ordinal and normal random variables with pre-specified correlation matrix and marginal distributions.
 License: GPL
 NeedsCompilation: no
-Packaged: 2015-11-24 16:33:00 UTC; aamatya
+Packaged: 2018-02-10 21:54:53 UTC; aMATYA
 Repository: CRAN
-Date/Publication: 2015-11-24 18:37:17
+Date/Publication: 2018-02-11 14:13:44 UTC
