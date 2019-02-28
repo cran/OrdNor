@@ -12,13 +12,13 @@ for (c in 1:(r-1) ){
 if(r != c) {
 
 if (r<=length(plist) &  c<=length(plist) ) { 
-minmax = Limit_forOO(plist[[r]], plist[[c]])
+minmax = LimitforOO(plist[[r]], plist[[c]])
 }
 else if (r>length(plist) &  c>length(plist) ) { 
 minmax = c(-1,1)
 }
 else if (r>length(plist) &  c<=length(plist) ){
-minmax = Limit_forON(plist[[ c ]])
+minmax = LimitforON(plist[[ c ]])
 }
 minmat[r,c] = minmax[1]
 maxmat[r,c] = minmax[2] 
