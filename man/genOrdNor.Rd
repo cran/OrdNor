@@ -5,7 +5,7 @@
 Generates a data set with ordinal and normal variables
 }
 \description{
-The function simulates a data set with ordinal and normal components with pre-specified correlation matrix and marginals
+The function simulates a data set with ordinal and normal components with a pre-specified correlation matrix and marginals.
 }
 \usage{
 genOrdNor(n, plist, cmat.star, mean.vec, sd.vec, no.ord, no.norm)
@@ -36,7 +36,7 @@ Number of normal variables.
 }
 
 \references{
-Demirtas, H., Yavuz, Y. (2015). Concurrent generation of ordinal and normal data. \emph{Journal of Biopharmaceutical Statistics}; \bold{25(4):635-650}.
+Demirtas, H., Yavuz, Y. (2015). Concurrent generation of ordinal and normal data. \emph{Journal of Biopharmaceutical Statistics}; \bold{25(4)}, 635-650.
 }
 
 \value{

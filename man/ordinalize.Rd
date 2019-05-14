@@ -19,4 +19,7 @@ ordinalize(pvec, z)
 	A vector of samples from the standard normal distribution.
 	}
 }
+\value{
+A vector of ordinalized variates.
+}
 

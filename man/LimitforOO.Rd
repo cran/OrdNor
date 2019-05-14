@@ -23,7 +23,7 @@ A vector of marginal probabilities for the second ordinal variable.
 A vector of two elements. The first element is the lower bound and the second element is the upper bound.
 }
 \references{
-Demirtas, H., Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, \bold{65(2):104-109}.
+Demirtas, H., Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, \bold{65(2)}, 104-109.
 }
 \examples{
 	pvec1 = cumsum( c(0.30, 0.40) )
