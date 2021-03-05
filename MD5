@@ -1,4 +1,4 @@
-4956728ec6ad3620cc20e874f1d4a21f *DESCRIPTION
+4b81175e0b9049948c7cefbff16d5a58 *DESCRIPTION
 daba00e9d1d4fd67047bec1c3ea85c4f *NAMESPACE
 adf9030973fdfa858d465adebad234c9 *R/IntermediateON.R
 c68e4e3e33402e39e327589133474371 *R/IntermediateOO.R
@@ -15,7 +15,7 @@ a5b23db13fab1d8b924edf97c65e0d79 *man/IntermediateON.Rd
 68c71c80643b2a158be338ae7061121f *man/IntermediateOO.Rd
 041970e03929cf18c95d4ced97671067 *man/LimitforON.Rd
 122f88e6021768ea3c61c1e0e07a2000 *man/LimitforOO.Rd
-c47fac67ad517295ea2d9a7e469c3050 *man/OrdNor-package.Rd
+ca64fa502688d743e3a0739b5db66a01 *man/OrdNor-package.Rd
 65292860eb9c562e3c0ea8ae8b0f2567 *man/cmat.star.Rd
 16623959c57e7a585541c9ba0051cbeb *man/genOrdNor.Rd
 e7ebf4c6d279e8b32cbbd81ef18ce036 *man/ordinalize.Rd

@@ -13,8 +13,8 @@ The package implements a procedure for concurrently generating samples from ordi
 \tabular{ll}{
 Package: \tab OrdNor\cr
 Type: \tab Package\cr
-Version: \tab 2.2.2\cr
-Date: \tab 2020-06-06\cr
+Version: \tab 2.2.3\cr
+Date: \tab 2021-03-05\cr
 License: \tab GPL\cr
 }
 
